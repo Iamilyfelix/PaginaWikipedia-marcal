@@ -1,0 +1,90 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+body{
+    background-color: #EFEFEF;
+}
+.logo{
+    width: 270px;
+    margin:20px;
+}
+#imghome{
+    width: 800x;
+    margin-left: 69px;
+    margin-bottom: 100px;
+}
+.h1home{
+   font-size: 49px;
+   font-weight: 600;
+   text-align: center;
+}
+.h1home::after {
+    margin-top: 6px;
+    content: "";
+    display: block;
+    width: 35%; 
+    height: 7px; 
+    background-color: black; 
+    border-radius: 10px; 
+    position: absolute;
+    left: 32%; 
+}
+.topicos::after{
+    width: 26%; 
+    left: 37%; 
+}
+.list{
+    padding: 30px;
+    font-weight:bold;
+    font-size: 23px;
+}
+#vejamais{
+    color:black;
+    font-size: 23px;
+    font-weight: 700;
+    margin-left: 50%;
+    margin-top: 80px;
+}
+
+.h1pagseg{
+    font-style: italic;
+    font-size:48px;
+    margin: 0px;
+}
+.princ{
+    
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+}
+.princ p{
+    font-size: 18px;
+}
+
+.menu{
+    background-color: #ffffff;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+    border: 1px solid black;
+    margin-top: 40px;
+}
+.menu li{
+    margin-left: 24px;
+}
+.menu h2{
+    background-color:#70C3FF;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    margin-top: 0px;
+    text-align: center;
+}
+.subt{
+    font-size: 44px;
+    font-weight: 500;
+    padding-left: 50px;
+    margin: 0px;
+}
+.bold{
+    font-weight:600;
+}
