@@ -1,2 +1,2 @@
-# Project-PaginaWikipedia-marcal
-Trabalho da materia de Autoria Web Pagina do Wikipedia 
+#Pagina do Wikipedia
+Pagina do Wikipedia Trabalho Avaliativo da materia de Autoria Web  
